@@ -19,7 +19,7 @@ const useCommentsContract = () => {
     const [signer] = useSigner()
     const provider = useProvider()
     const contract = wagmi.useContract({
-        addressOrName: "0xFe5AA215cE79501397C34fEdd9373DC3D941aC0B",
+        addressOrName: process.env.NEXT_PUBLIC_CONTRACT_ADDRESS,
         contractInterface: CommentsContract.abi,
         signerOrProvider: signer.data || provider
     })
