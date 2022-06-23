@@ -1,4 +1,4 @@
-Arweave URL: https://stnhowvc5k7at62liwmxdnk6igtglqiund3csd2yibis6ymd.arweave.net/lNp3WqLqvgn7S0WZc_bV_eQaZlwRRo9ikPWEBRL2GDY/
+Arweave URL: https://arweave.net/wPfwhduuDcJ_UzZkcCI_-jPZdTiPLlc1VF1YaN8k5i4
 
 # Create a Web3 Forum with Polygon
 

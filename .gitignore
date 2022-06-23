@@ -41,7 +41,7 @@ node_modules
 coverage
 coverage.json
 typechain
-
+wallet.json
 #Hardhat files
 cache
 artifacts
